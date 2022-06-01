@@ -2,4 +2,4 @@
 
 Repository for paper "WaggleNet" including the code and the dataset for reproducibility
 
-See table below to inspect and access dataset and ground truth:
+See table below to inspect and access waggle videos and ground truth:

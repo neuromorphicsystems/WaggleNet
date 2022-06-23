@@ -1,5 +1,16 @@
 # WaggleNet: Learn to Track and Follow Bees Figure-eight Motion
 
+<p align="center">
+<img alt="Light" src="fig/tracker_output.gif" width="23%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="fig/multipleWaggleDanceDetector_cropped.gif" width="23%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="fig/bee_waggle_top_view.svg" width="28.2%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="fig/final_unified_architecture_waggle_dance.svg" width="76%">
+</p>
+<!-- <img alt="Dark" src="fig/final_unified_architecture_waggle_dance.svg" width="52%"> -->
+
 Repository for paper "WaggleNet" dataset
 
 See table below to inspect and access waggle dataset:
